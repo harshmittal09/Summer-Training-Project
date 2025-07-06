@@ -1,0 +1,58 @@
+JOHN DOE
+123 Main Street, Anytown, UP, India | +91 98765 43210 | john.doe@email.com | LinkedIn.com/in/johndoe
+
+SUMMARY
+Highly motivated and results-oriented professional with 5+ years of experience in data analysis, machine learning, and software development. Proven ability to design, develop, and deploy scalable solutions. Seeking to leverage strong analytical skills and technical expertise to contribute to a dynamic team.
+
+EXPERIENCE
+
+Senior Data Analyst
+Tech Solutions Pvt. Ltd., Noida, UP
+March 2022 – Present
+- Led data analysis projects, improving reporting efficiency by 30% using Python and SQL.
+- Developed and maintained dashboards in Tableau for key business metrics.
+- Collaborated with engineering teams to optimize data pipelines and ensure data integrity.
+- Performed statistical analysis and A/B testing to guide product decisions.
+
+Junior Software Developer
+Innovate Systems, Bengaluru, Karnataka
+July 2020 – February 2022
+- Developed and maintained web applications using Python, Flask, and JavaScript.
+- Implemented RESTful APIs for data exchange between frontend and backend systems.
+- Participated in code reviews and contributed to improving software development lifecycle processes.
+- Gained hands-on experience with version control systems like Git.
+
+EDUCATION
+
+Master of Technology (M.Tech) in Computer Science
+Indian Institute of Technology Kanpur (IITK), Kanpur, UP
+Graduated: May 2020
+- Relevant Coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Database Management Systems.
+- Thesis Project: "Predictive Modeling for Customer Churn using Ensemble Learning."
+
+Bachelor of Technology (B.Tech) in Information Technology
+National Institute of Technology Allahabad (NIT-A), Prayagraj, UP
+Graduated: May 2018
+
+SKILLS
+
+Programming Languages: Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras), SQL, Java, JavaScript
+Data Analysis & Visualization: Tableau, Power BI, Excel, Matplotlib, Seaborn
+Machine Learning: Supervised & Unsupervised Learning, Regression, Classification, Clustering, NLP, Deep Learning
+Databases: MySQL, PostgreSQL, MongoDB
+Cloud Platforms: AWS (S3, EC2, Lambda)
+Tools & Technologies: Git, Docker, Flask, REST APIs, Jupyter Notebook, VS Code, Agile Methodologies
+
+PROJECTS
+
+Healthcare Outcome Prediction (Personal Project)
+- Developed a machine learning model to predict patient re-admission rates using electronic health records.
+- Utilized Python, Scikit-learn, and feature engineering techniques.
+
+E-commerce Recommendation System (Academic Project)
+- Designed and implemented a collaborative filtering recommendation system for an e-commerce platform.
+- Achieved a 15% improvement in recommendation accuracy compared to baseline models.
+
+AWARDS & RECOGNITION
+- Awarded "Employee of the Month" at Tech Solutions Pvt. Ltd., November 2023.
+- Dean's List for academic excellence, IIT Kanpur, 2019.
